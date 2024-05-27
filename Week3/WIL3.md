@@ -120,11 +120,13 @@ ex) https://blog.naver.com/RabbitWrite.naver/**1**
 
 # 과제
 ## HTTP 메서드 사용 사례 정리
-1. GET 메서드
+1. GET 메서드 - 네이버 검색
  ![사이트 사진](https://github.com/FireSword923/2024-1-Web-Study/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-27%20010428.png)
 
- 2. POST 메서드
+2. POST 메서드 - 파파고 번역
  ![사이트 사진](https://github.com/FireSword923/2024-1-Web-Study/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-27%20010724.png)
+
+3. PUT 메서드 - GIthub에 코드 업로드
 
  ## HTTP/1.1, /2, /3의 차이점과 역사
 * HTTP/1.1 : 1999년에 출시됐다. 상당히 간단하지만, 그만큼 비효율적이고 우선 순위를 정할 수 없다.
